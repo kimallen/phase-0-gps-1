@@ -1,6 +1,6 @@
 **Reflection on my first Guided Pairing Session**
 
-Here is a photo of [my pairing partner Mike and I](https://raw.githubusercontent.com/kimallen/phase-0-gps-1/master/mikeandkim/mikeandkim.png)
+Here is a photo of ![my pairing partner Mike and I](https://raw.githubusercontent.com/kimallen/phase-0-gps-1/master/mikeandkim/mikeandkim.png)
 
 Prior to the pairing session, I felt pretty comfortable with the work flow through version control, so was not struggling with those particular concepts.  I had office hours with Emmanuel earlier in the day that clarified some things.  One clarification was that a branch made from anywhere in a repository will exist in all places in the repository (it's not like a file that is inside of another).  For example, I can create my branch while I am in week-2 directory, but it will exist for any directory inside of phase-0 repository.
 
