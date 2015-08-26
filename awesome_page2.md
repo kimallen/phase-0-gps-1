@@ -9,7 +9,6 @@ what is x
 
 (https://devbootcamp.instructure.com/courses/8/assignments/100)
 
-![mike and kim pairing](Users/mikecerrone/Desktop/phase-0/phase-0-gps-1/mikeandkim)
+![mike and kim pairing](https://raw.githubusercontent.com/kimallen/phase-0-gps-1/master/mikeandkim/mikeandkim.png)
 
-https://raw.githubusercontent.com/kimallen/phase-0-gps-1/master/mikeandkim/mikeandkim.png
 
