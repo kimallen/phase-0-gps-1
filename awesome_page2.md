@@ -11,3 +11,5 @@ what is x
 
 ![mike and kim pairing](Users/mikecerrone/Desktop/phase-0/phase-0-gps-1/mikeandkim)
 
+https://raw.githubusercontent.com/kimallen/phase-0-gps-1/master/mikeandkim/mikeandkim.png
+
